@@ -1,6 +1,0 @@
-md5: 1d231380a4f6bdefee53ce90234b930a
-outs:
-- cache: true
-  md5: ec1bebaea2c042beb68f7679ddd106a4
-  metric: false
-  path: README.md
