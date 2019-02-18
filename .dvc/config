@@ -1,6 +1,0 @@
-['remote "myremote"']
-url = /home/pancc/Desktop/pytorch_models/myremote
-[core]
-remote = myremote
-['remote "mine"']
-url = ../local:/home/pancc/Desktop/pytorch_models/myremote
